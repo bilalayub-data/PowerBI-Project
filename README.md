@@ -10,3 +10,6 @@ Product Dataset consisted of data for all 11 products with following attributes
 ProductID| Sub Category Key |  Color |  ProductName |  RetailPrice |  StandardCost | 
 -----|-----|-----|-----|-----|-----| 
 
+Dataset also contained Geography, Cateogry, SubCategory and SalesRep Dimensional Data 
+
+
