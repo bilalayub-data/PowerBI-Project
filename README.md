@@ -12,4 +12,6 @@ ProductID| Sub Category Key |  Color |  ProductName |  RetailPrice |  StandardCo
 
 Dataset also contained Geography, Cateogry, SubCategory and SalesRep Dimensional Data 
 
+![Data Model](https://github.com/user-attachments/assets/30f63aab-fcc9-4597-aef5-fd245d05afb7)
+
 
